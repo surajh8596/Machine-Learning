@@ -1,0 +1,5 @@
+# **Supervised Learning Approach:**
+## **1. Regression**
+### a. Linear  b. Logistic
+## **2. Classification**
+### a. Logistic  b. KNN  c. Decision Tree  d. SVM  e. Random Forest  f. Naiye Bays Classifier
