@@ -10,3 +10,5 @@
   a. Agglomerative
   b. Divisive
 ### 3. PCA
+
+# **Reinforcement Learning:**
